@@ -50,7 +50,7 @@ import Header from './components/layout/Header/Header';
 import TodoFilters from './components/todo/TodoFilters/TodoFilters';
 
 const AppWrapper = styled.div`
- max-width: 900px;
+ max-width: 800px;
    margin: 60px auto;
    padding: 40px;
  `;
